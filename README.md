@@ -1,1 +1,1 @@
-# JavaScriptInAction
+# JavaScriptInAction intro worksheet
